@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Special thanks and a shout out to the following individuals and organizations:
 
   - [Code the Dream](https://codethedream.org/)
-  - [Gatan](https://www.linkedin.com/in/gaetan-g-siry-40a534b7/)
+  - [Gaetan](https://www.linkedin.com/in/gaetan-g-siry-40a534b7/)
   - [Cameron](https://github.com/camerongineer)
 
 ## Contact
