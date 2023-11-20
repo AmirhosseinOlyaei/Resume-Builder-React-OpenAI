@@ -73,11 +73,12 @@ const App = () => {
       <AddAttributeForm labelText="Skills" onAddAttribute={addSkills} />
       <AttributeList attributeList={skillsList} />
       <hr />
+      <ApiKeyInput onApiKeySubmit={setApiKey} />
+      <hr />
       <button title={"generate"} type={"submit"} onClick={getCompletion}>
         Generate Resume
       </button>
       <hr />
-      <ApiKeyInput onApiKeySubmit={setApiKey} />
       <div
         dangerouslySetInnerHTML={{ __html: response.replaceAll("\n", "<br/>") }}
       />
