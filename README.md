@@ -86,3 +86,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out to [Amir](https://www.linkedin.com/in/amirhossein-olyaei/).
 
 Happy Resume Building!
+
+## Example
+
+![image](/src/assets/Screenshot2.png)
